@@ -1,0 +1,12 @@
+#b325,.b326{
+    border: 1px solid green;
+}
+.big{
+    color: blue;
+}
+#b325,.b326,.b329{
+    font-weight: bold;
+}
+p{
+    background: yellow;
+}
